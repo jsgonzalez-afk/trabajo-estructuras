@@ -11,3 +11,6 @@ lab4.py	4 · Tuplas	Datos inmutables, empaquetar/desempaquetar
 lab5.py	5 · Diccionarios	Agenda de contactos con menú, .get(), .items()
 lab6.py	6 · Anidar	Lista de diccionarios, bucles anidados, ordenar por campo
 biblioteca.py	7 · Proyecto final	Catálogo de libros completo, con las mejoras del reto final
+
+
+TRabajo entregado por Miguel Angel Giraldo y Juan Sebastian Gonzalez
